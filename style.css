@@ -1,0 +1,58 @@
+body{
+    font-family: sans-serif;
+    background-color: wheat;
+}
+header{
+    background-color: white;
+    padding: 5px;
+}
+.logo{
+    width: 200px;
+    height: 150px;
+}
+nav{
+    margin: 20px 0px;
+    padding: 20px 0px;
+    background-color: lightblue;
+    text-align: center;
+}
+nav a {
+    text-decoration: none;
+    margin-right: 60px;
+    color: white;
+}
+.main_img{
+    width: 90%;
+    height: 30%;
+}
+h1{
+    font-size: 30px;
+    color: aqua;
+    font-weight: normal;
+    padding-bottom:5px ;
+    text-align: center;
+}
+footer{
+    background-color: lightgreen;
+    padding: 10px;
+    margin-top: 20px;
+}
+footer p{
+    background-color: aquamarine;
+    padding: 5px;
+}
+footer a{
+    background-color: red;
+    color: blue;
+    text-decoration: none;
+    font-size: 16px;
+    padding: 10px 25px;
+    border-radius: 10px;
+}
+.contacts{
+    background-color: azure;
+    color: red;
+    padding: 10px 25px;
+    border-radius: 10px;
+    font-size: 16px;
+}
